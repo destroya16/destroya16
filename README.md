@@ -10,3 +10,16 @@
 </p>
 - ⚡ Fun fact: genious, billionaire, playboy, philanthropist
 
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Destroyagony
+====================================================================================================================================
+
+I'm new to the field of Data Science and python. I want to move forward in this field and then do cool and interesting projects. I am 17 years old, I am finishing the 11th grade in the physics and mathematics profile. I live in Russia in a small town. Sociable, friendly and kind
+
+* 🌍  I'm based in Russia
+* ✉️  You can contact me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
+* 🧠  I'm learning Data since and Python
+* 🤝  I'm open to collaborating on different projects, who interest me
+* ⚡  genious, billionaire, playboy, philanthropist
+
