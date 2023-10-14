@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on different projects who interest me
 - 📫 How to reach me
 
-https://github-profile-trophy.vercel.app/?destroyagony=ryo-ma&title=Followers
+<img src='https://github-profile-trophy.vercel.app/?destroyagony=ryo-ma&title=Followers'>
                         
 
 
