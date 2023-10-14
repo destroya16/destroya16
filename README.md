@@ -5,7 +5,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Data since and Python
 - 💞️ I’m looking to collaborate on different projects who interest me
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
