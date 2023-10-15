@@ -16,7 +16,7 @@ I'm new to the field of Data Science and python. I want to move forward in this 
 *   ⚡  genious, billionaire, playboy, philanthropist
 *   📫 How to reach me:<p align="left">
 <a href="https://kaggle.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="destroyagony" height="30" width="40" /></a>
-<a href="https://instagram.com/venseek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vensee" height="30" width="40" /></a>
+<a href="https://instagram.com/Destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vensee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="destroyagony" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="destroyagony" height="30" width="40" /></a>
 </p>
