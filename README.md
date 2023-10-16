@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Destroyagony
 ====================================================================================================================================
 <h3 align="center">A novice programmer from Russia</h3>
-I'm new to the field of Data Science and python. I want to move forward in this field and then do cool and interesting projects. I am 17 years old, I am finishing the 11th grade in the physics and mathematics profile. I live in Russia in a small town. Sociable, friendly and kind
+<Font Face='IMPACT'>I'm new to the field of Data Science and python. I want to move forward in this field and then do cool and interesting projects. I am 17 years old, I am finishing the 11th grade in the physics and mathematics profile. I live in Russia in a small town. Sociable, friendly and kind</Font>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 
