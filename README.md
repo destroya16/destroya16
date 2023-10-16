@@ -29,3 +29,5 @@ I'm new to the field of Data Science and python. I want to move forward in this 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destroyagony&show_icons=true&locale=en" alt="destroyagony" /></p>
 
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
+
