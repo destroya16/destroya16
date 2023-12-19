@@ -11,7 +11,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
-*   🧠  I'm learning Data since and Python
+*   🧠  I'm learning <strong>Data since</strong> and <strong>Python</strong>
 *   🤝  I'm open to collaborating on different projects, who interest me
 *   ⚡  genious, billionaire, playboy, philanthropist
 *   📫 How to reach me:<p align="left">
