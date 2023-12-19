@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Data and Computer scientists from Russia</h3>
 I'm a <strong>Data and Computer scientists</strong>. I want to move forward in this field and then do <i>cool</i> and <i>interesting projects</i>. I am <strong>17 years old</strong>, I am finishing the <strong>11th grade</strong> in the <i>physics</i> and <i>mathematics</i> profile. <strong>Sociable</strong>, <strong>friendly</strong> and <strong>kind</strong>. 
 
-*   🌍  I'm based in Russia
-*   ✉️  You can contact me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
+*   🌍  <i>I'm based in Russia</i>
+*   ✉️  You can <strong>contact</strong> me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
 *   🧠  I'm learning <strong>Data since</strong> and <strong>Python</strong>
 *   🤝  I'm open to collaborating on different projects, who interest me
 *   ⚡  genious, billionaire, playboy, philanthropist
