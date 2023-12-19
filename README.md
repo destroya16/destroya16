@@ -27,7 +27,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destroyagony&show_icons=true&locale=en" alt="destroyagony" /></p>
