@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Destroyagony
 ====================================================================================================================================
 <h3 align="center">Data and Computer scientists from Russia</h3>
-I'm a <strong>Data and Computer scientists</strong>. I want to move forward in this field and then do <i>cool</i> and <i>interesting projects</i>. I am <strong>17 years old</strong>, I am finishing the <strong>11th grade</strong> in the <i>physics</i> and <i>mathematics</i> profile. <strong>Sociable</strong>, <strong>friendly</strong> and <strong>kind</strong>. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
+I'm a <strong>Data and Computer scientists</strong>. I want to move forward in this field and then do <i>cool</i> and <i>interesting projects</i>. I am <strong>17 years old</strong>, I am finishing the <strong>11th grade</strong> in the <i>physics</i> and <i>mathematics</i> profile. <strong>Sociable</strong>, <strong>friendly</strong> and <strong>kind</strong>. 
 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
