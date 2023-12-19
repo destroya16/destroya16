@@ -9,14 +9,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Data and Computer scientists from Russia</h3>
 I'm a <strong>Data and Computer scientists</strong>. I want to move forward in this field and then do <i>cool</i> and <i>interesting projects</i>. I am <strong>17 years old</strong>, I am finishing the <strong>11th grade</strong> in the <i>physics</i> and <i>mathematics</i> profile. <strong>Sociable</strong>, <strong>friendly</strong> and <strong>kind</strong>. 
 
-<p>
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [smoskovski2006@yandex.ru](mailto:smoskovski2006@yandex.ru)
 *   🧠  I'm learning Data since and Python
 *   🤝  I'm open to collaborating on different projects, who interest me
 *   ⚡  genious, billionaire, playboy, philanthropist
 *   📫 How to reach me:<p align="left">
-</p>
+
 <a href="https://kaggle.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="destroyagony" height="30" width="40" /></a>
 <a href="https://instagram.com/Destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vensee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/deestroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="destroyagony" height="30" width="40" /></a>
