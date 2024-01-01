@@ -30,7 +30,8 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destroyagony&show_icons=true&locale=en" alt="destroyagony" /></p>
 
-my certificates:
+# my certificates: 
+1) https://www.kaggle.com/learn/certification/destroyagony/python
 ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/986c26de-49b0-40ec-9d1c-36a72f48483c)
 
 
