@@ -33,7 +33,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 
-<br>
+<hr>
 <h2 align = "left">My certificates:<h2> 
 1) ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/986c26de-49b0-40ec-9d1c-36a72f48483c)
 
