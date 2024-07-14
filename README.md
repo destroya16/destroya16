@@ -18,7 +18,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 <a href="https://kaggle.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="destroyagony" height="30" width="40" /></a>
 <a href="https://instagram.com/Destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vensee" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/deestroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="destroyagony" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/destroyagonyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="destroyagony" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="destroyagony" height="30" width="40" /></a>
 </p>
 
