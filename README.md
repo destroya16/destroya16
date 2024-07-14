@@ -13,7 +13,6 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 *   ✉️  You can <strong>contact</strong> me at smoskovski2006@yandex.ru</p>
 *   🧠  I'm learning <strong>Data since</strong> and <strong>Python</strong><p>
 *   🤝  I'm open to collaborating on different projects, who interest me</p><p>
-*   ⚡  <strong>genious</strong>, <strong>billionaire</strong>, <strong>playboy</strong>, <strong>philanthropist</strong><p>
 *   📫 How to reach me:<p align="left">
 
 <a href="https://kaggle.com/destroyagony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="destroyagony" height="30" width="40" /></a>
