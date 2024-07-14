@@ -27,7 +27,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p><p><strong>My Sberbank: <i>2202208098778519</i></strong></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destroyagony&show_icons=true&locale=en" alt="destroyagony" /></p>
+<p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p><p><strong>My Sberbank: 2202208098778519</strong></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destroyagony&show_icons=true&locale=en" alt="destroyagony" /></p>
 
 
 
