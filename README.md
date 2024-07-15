@@ -31,6 +31,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p> 
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 <p>&nbsp;
 <h2 align="left">Statistics:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" /></p>
