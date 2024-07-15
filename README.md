@@ -33,7 +33,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 <p><a href="https://www.buymeacoffee.com/destroyagony "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="destroyagony " /></a></p> 
 <p>&nbsp;
 
-Statistics:
+<h2 align="left">Statistics:</h2>
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" /></p>
 
