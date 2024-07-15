@@ -10,7 +10,7 @@ About me:
 <h3 align="center">Data and Computer scientists from Russia</h3>
 I'm a <strong>Data and Computer scientists</strong>. I want to move forward in this field and then do <i>cool</i> and <i>interesting projects</i>. I am <strong>18 years old</strong> and I graduated from <i>high school</i> with a degree in <strong>physics</strong> and <strong>mathematics</strong>. <p>I am a student at <strong>St. Petersburg University</strong> <i>"LETI"</i> in the <i>"Cybersecurity"</i> program.</p><p><i> —«<strong>Sociable</strong>, <strong>friendly</strong> and <strong>kind</strong></i>».</p>
 <hr>
-*   🌍  <i>I'm <strong>based</strong> in Russia</i><p>
+*   🌍  <i>I'm <strong>based</strong> in Russia, St.Petersburg</i><p>
 *   ✉️  You can <strong>contact</strong> me at smoskovski2006@yandex.ru</p>
 *   🧠  I'm learning <strong>Data since</strong> and <strong>Python</strong><p>
 *   🤝  I'm open to collaborating on different projects, who interest me</p><p>
