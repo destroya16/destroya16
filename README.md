@@ -34,8 +34,8 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 <h2 align="left">Statistics:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" /></p>
 
-
-<h2 align="left"> Certificates </h2>
+<p>
+<h2 align="left"> Certificates </h2></p>
 
 
 
