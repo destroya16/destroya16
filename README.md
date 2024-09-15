@@ -50,8 +50,8 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 
-## Some of my certificates
-<hr>
+# Some of my certificates
+
 
 
 
