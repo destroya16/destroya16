@@ -49,8 +49,8 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 
-
-<p>## Certificates
+<p>
+## Certificates
 <hr>
 
 
