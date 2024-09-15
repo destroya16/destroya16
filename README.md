@@ -36,12 +36,9 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" />
 
-.
-.
-.
-.
-.
-.
+
+>still to come
+
 <h2 align="left">Certificates</h2>
 
 
