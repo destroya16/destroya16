@@ -36,5 +36,7 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 <h2 align="left">Some of my certificates</h2>
+
+
  ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/c8bb661f-056f-4634-93df-b4dab1eaf0b1)
 
