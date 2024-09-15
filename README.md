@@ -35,26 +35,6 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" /></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Some of my certificates
-
-
-
-
-
  ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/c8bb661f-056f-4634-93df-b4dab1eaf0b1)
 
