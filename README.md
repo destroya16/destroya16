@@ -49,12 +49,12 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 
 
-<p>
-## Certificates
+
+## Some of my certificates
 <hr>
 
 
 
 
- ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/c8bb661f-056f-4634-93df-b4dab1eaf0b1)</p>
+ ![image](https://github.com/Destroyagony/Destroyagony/assets/147639560/c8bb661f-056f-4634-93df-b4dab1eaf0b1)
 
