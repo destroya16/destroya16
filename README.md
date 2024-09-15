@@ -32,7 +32,9 @@ I'm a <strong>Data and Computer scientists</strong>. I want to move forward in t
 
 &nbsp;
 <h2 align="left"> Statistics </h2> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" /></p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=destroya16&show_icons=true&locale=en" alt="destroya16" />
 
 
 <h2 align="left">Some of my certificates</h2>
